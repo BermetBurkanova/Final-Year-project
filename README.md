@@ -9,3 +9,4 @@ The purpose of the given project is to develop a system that can classify type o
 · Support Vector Machine will be applied to the dataset in order to classify the nature of the cancer.
 
 ![alt text](ProjectTimeLine.png?raw=true "TimeLine")
+![alt text](ProjectWorkSchema.png?raw=true "ProjectWorkSchema")
