@@ -8,5 +8,13 @@ The purpose of the given project is to develop a system that can classify type o
 · Convolutional Neural Network 
 · Support Vector Machine will be applied to the dataset in order to classify the nature of the cancer.
 
+Following are machine Learning algorithms that are used in the proposed work for classification
+
+K-Nearest Neighbor Algorithm
+Naïve Bayes Algorithm
+Decision Tree Algorithm
+Random Forest Algorithm
+Artificial Neural Network Algorithm
+
 ![alt text](ProjectTimeLine.png?raw=true "TimeLine")
 ![alt text](ProjectWorkSchema.png?raw=true "ProjectWorkSchema")
