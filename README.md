@@ -7,3 +7,4 @@ The purpose of the given project is to develop a system that can classify type o
 · Feed Forward Black Propagation Neural Network 
 · Convolutional Neural Network 
 · Support Vector Machine will be applied to the dataset in order to classify the nature of the cancer.
+
