@@ -18,3 +18,4 @@ Artificial Neural Network Algorithm
 
 ![alt text](ProjectTimeLine.png?raw=true "TimeLine")
 ![alt text](ProjectWorkSchema.png?raw=true "ProjectWorkSchema")
+![alt text](MeanandMedianFilters.png?raw=true "MeanandMedianFilters")
